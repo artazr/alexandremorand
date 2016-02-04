@@ -162,6 +162,18 @@ iframe {
 	width: 200px;
 	margin-top: 20px;
 }
+
+.header .csulb{
+	width: 155px;
+	margin-top: 0px;
+}
+
+.header p{
+	margin-top: 34px;
+    text-align: center;
+    font-size: 21px;
+    width: 250px;
+}
 .header .profile-content .desc {
   color: #778492;
   font-family: "Lato", arial, sans-serif;
@@ -205,12 +217,36 @@ iframe {
   background: #fff;
   padding: 30px;
 }
+
 .section .heading {
+ height: 50px;
+}
+
+.section .title {
   margin-top: 0;
-  margin-bottom: 30px;
   color: #545e69;
   font-size: 24px;
 }
+
+.section .date {
+  margin-top: 0;
+  color: #545e69;
+  font-size: 19px;
+}
+
+.section .content video {
+
+    margin: 10px;
+    
+}
+
+.section .content img {
+  
+    margin: 10px;
+    
+}
+
+
 .section .content .more-link .fa {
   margin-right: 5px;
   font-size: 14px;
