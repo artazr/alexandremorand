@@ -218,20 +218,17 @@ iframe {
   padding: 30px;
 }
 
-.section .heading {
- height: 50px;
+.section .media {
+    margin: 10px;
 }
-
 .section .title {
   margin-top: 0;
   color: #545e69;
-  font-size: 24px;
 }
 
 .section .date {
   margin-top: 0;
   color: #545e69;
-  font-size: 19px;
 }
 
 .section .content video {
