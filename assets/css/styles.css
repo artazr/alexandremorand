@@ -507,6 +507,9 @@ iframe {
 .languages .item .fa {
   color: #79d19a;
 }
+.language{
+  padding: 0px;
+}
 /* sport Section */
 .sport .item {
   margin-bottom: 20px;
